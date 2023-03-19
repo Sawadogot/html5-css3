@@ -1,0 +1,252 @@
+.a1{
+    background-color: grey;
+}
+.p1{
+    font-size: 200px;
+    margin:50px 0px 0px 20px;
+    padding-left: 50px;
+    margin-inline-end: 10px;
+    margin-bottom: 10px;
+    line-height: 150px;
+    word-spacing: 50px;
+    color: white;
+    padding-top: 75px;
+}
+.p2{
+    margin-inline-end: 100px; 
+    font-size: 50px;
+    color: blue;
+    padding-left: 50px;
+    margin-bottom: 10px;
+}
+.p3{
+    text-align: justify;
+    padding-left: 50px;
+    width:500px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+.ca{
+    width: 800px;
+    height: 650px;
+    background-color:grey;
+}
+.ca1{
+    width:400px;
+    text-align: justify;
+    padding-left: 50px;
+}
+.ca2{
+    width:1000px;
+    height: 300px;
+    background-color: blue;
+    padding-bottom: 50px;
+}
+.im{
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.der{
+    font-size: 35px;
+    margin-right: 100px;
+}
+footer{
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    height: 230px;
+}
+.z{
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.ab{
+    text-align: left;
+    padding: 150px;
+    color: blue;
+    font-size: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.ab1{
+    padding-left: 100px;
+    width: 500px;
+    text-align: justify;
+    padding-top: 0px;
+    margin: 0px 250px 9px 0px;
+    padding-bottom: 0px;
+    line-height: 25px
+}
+.ab3{
+    padding: 250px;
+    padding-bottom: 0px;
+    margin: 0px 250px 9px 0px;
+    padding-top: 50px;
+}
+.ab4{
+    font-size: 50px;
+    color: blue;
+}
+.ab5{
+    padding-right: 100px;
+    width: 400px;
+    margin-right: 50px;
+    text-align: justify;
+}
+.ac1{
+    padding-left: 200px;
+    font-size: 50px;
+    color: blue;
+    padding-top: 10px;
+}
+.ac2{
+    padding-left:100px;
+}
+.ac3{
+    margin-right: 400px;
+    width: 500px;
+    margin-inline-end: 10px;
+    text-align: justify;
+    padding-top: 10px;
+    padding-right: 200px;
+    line-height: 25px;
+}
+.ac4{
+    padding-left: 200px;
+    text-align: justify;
+    width: 500px;
+    line-height: 25px;
+    padding-bottom: 50px;
+}
+.ac5{
+    margin-right: 250px;
+}
+.a5{
+    background-color: grey;
+    height: 600px;
+}
+.ac1{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+.ac2{
+    text-align: center;
+    color: black;
+    color: bold;
+    padding-top: 75px;
+}
+.ad1{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+.ad2{
+    border-radius: 90px;
+    margin-left: 150px;
+    margin-bottom: 60px;
+}
+.ad5{
+    border-radius: 90px;
+     margin-left: 150px; 
+     margin-top: 60px;  
+}
+.ad4{
+    width: 300px;
+    text-align: left;
+    padding-left: 300px;
+    position: relative;
+    right: 70px
+}
+.ad7{
+    width: 250px;
+    padding-left: 300px;
+    text-align: justify;
+    position: relative;
+    bottom: 125px;
+}
+.ad6 {
+    padding-left: 350px; 
+    position: relative; 
+    bottom: 115px;
+    padding-top: 15px;
+}
+.ch1{
+    padding-left: 25px;
+}
+.a6{
+    background-color: grey;
+    height: 900px;
+}
+.ae1{
+    font-size: 200px;
+    color: white;
+    padding-left: 75px;
+    padding-bottom: 0px;
+}
+.ae2{
+    padding-left: 75px;
+    word-spacing: 10px;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 150px;
+}
+.ae3{
+    padding-left: 75px;
+    color: blue;
+    font-size: 30px;
+    padding-right: 100px;
+    position: relative;
+    bottom: 175px;
+}
+.ae4{
+    padding-left: 75px;
+    text-align: justify;
+    width: 500px;
+    position: relative;
+    bottom: 50px;
+    margin-inline-end: 50px;
+    font-size: 25px;
+}
+.ae5{
+    text-align: justify;
+    width: 500px;
+    margin-inline-end: 8px;
+    padding-left: 700px;
+    margin-bottom: 0px;
+    position: relative;
+    bottom: 300px;
+    margin-inline-end: 50px;
+    font-size: 25px;
+}
+.ae6{
+    padding-top: 50px;
+}
+.af1{
+    font-size: 50px;
+    padding-left: 75px;
+    color: blue;
+}
+.af2{
+    padding-left: 300px;
+    font-size: 25px;
+    margin-right: 300px;
+}
+.af3{
+padding-right: 50px;
+padding-top: 50px;
+}
+.z1{
+    padding-top: 45px;
+}
+.a7{
+    padding-top: 45px;
+}
+.hr{
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
