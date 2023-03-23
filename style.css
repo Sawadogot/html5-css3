@@ -1,5 +1,5 @@
 .a1{
-    background-color: grey;
+    background-color: #d9d9d9;
 }
 .p1{
     font-size: 200px;
@@ -29,7 +29,7 @@
 .ca{
     width: 800px;
     height: 650px;
-    background-color:grey;
+    background-color: #d9d9d9;
 }
 .ca1{
     width:400px;
@@ -124,7 +124,7 @@ footer{
     margin-right: 250px;
 }
 .a5{
-    background-color: grey;
+    background-color: #d9d9d9;
     height: 600px;
 }
 .ac1{
@@ -177,7 +177,7 @@ footer{
     padding-left: 25px;
 }
 .a6{
-    background-color: grey;
+    background-color: #d9d9d9;
     height: 900px;
 }
 .ae1{
@@ -244,9 +244,9 @@ padding-top: 50px;
 .a7{
     padding-top: 45px;
 }
-.hr{
+/*.hr{
     color: white;
     margin-top: 10px;
     margin-bottom: 10px;
 
-}
+}*/
