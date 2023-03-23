@@ -1,3 +1,12 @@
+html{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+body{
+    margin: 0px;
+}
 .a1{
     background-color: #d9d9d9;
 }
@@ -139,7 +148,7 @@ footer{
     padding-top: 75px;
 }
 .ad1{
-    font-size: 50px;
+    font-size: 100px;
     color: blue;
     text-align: center;
 }
@@ -250,3 +259,15 @@ padding-top: 50px;
     margin-bottom: 10px;
 
 }*/
+.ul1{
+    display: flex;
+    list-style: none;
+    padding-left: 0px;
+}
+.ul2{
+    display: flex;
+    list-style: none;
+    position: relative;
+    bottom: 125px;
+    margin-left: 300px;
+}
